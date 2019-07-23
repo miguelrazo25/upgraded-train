@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/chavo.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/popis.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/barriga.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/clotilde.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/florinda.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/godínez.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/jirafales.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/quico.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/ramon.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/ñoño.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/gloria.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/patty.png",
+    "clicked": false
+  }
+]

@@ -1,0 +1,16 @@
+.header {
+  background-color: orange;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ab/El_Chavo_%28simple_logo%29.svg");
+  background-repeat: repeat;
+  color: rgb(42, 40, 40);
+  min-height: 400px;
+  padding: 180px 20px; 
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 4rem;
+}
